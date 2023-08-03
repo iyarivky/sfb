@@ -3,4 +3,4 @@
 
 coming-soon
 
-![helck-勇者赫魯庫](https://github.com/iyarivky/sfb/assets/101973571/9990b2b4-0a25-4963-ab98-6f8cc4a16352)
+<img src="https://raw.githubusercontent.com/iyarivky/sfb/main/ezgif-3-68b97faef8.webp">
